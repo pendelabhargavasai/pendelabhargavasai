@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Namasthe!+🙏🏻;&center=true&size=30">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Namasthe+🙏🏻;&center=true&size=30">
   </a>
 </h1>
 
