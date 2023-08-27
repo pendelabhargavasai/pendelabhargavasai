@@ -66,7 +66,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pendelabhargavasai&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
-![snake gif](https://github.com/pendelabhargavasai/pendelabhargavasai/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/pendelabhargavasai/pendelabhargavasai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pendelabhargavasai/pendelabhargavasai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
