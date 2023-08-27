@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=500&color=FFCF19&width=435&center=true&lines=Namasthe+🙏🏻;+welcome+to+my+GITHUB"alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=100&color=FFCF19&width=435&center=true&lines=ℕ𝕒𝕞𝕒𝕤𝕥𝕙𝕖+🙏🏻;+𝕎𝕖𝕝𝕔𝕠𝕞𝕖+𝕥𝕠+𝕞𝕪+𝔾𝕀𝕋ℍ𝕌𝔹"alt="Typing SVG" />
   </a>
 </h1>
 
