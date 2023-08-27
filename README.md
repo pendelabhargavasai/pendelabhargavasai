@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Namasthe🙏🏻&height=100&section=header"/>
+</p>
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Pendela Bhargava Sai</h1>
+<h1 align="center">I'm Pendela Bhargava Sai🧔🏻‍♂️</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I study new technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -12,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pendelabhargavasai](https://github.com/pendelabhargavasai)
 
-- 📝 I regularly write articles on [https://www.notion.so/bhargavasaipendela](https://www.notion.so/bhargavasaipendela/2781ce49672c491a903c49d3a658f015?v=b5b27286fcba4f4bb607e139a04d2b9c)
+- 📝 I regularly write articles on [https://www.notion.so/bhargavasaipendela](https://bhargavasaipendela.notion.site/2781ce49672c491a903c49d3a658f015?v=b5b27286fcba4f4bb607e139a04d2b9c&pvs=4))
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
@@ -62,5 +66,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pendelabhargavasai&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pendelabhargavasai/pendelabhargavasai/blob/output/github-contribution-grid-snake.gif)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
