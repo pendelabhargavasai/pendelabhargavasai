@@ -12,11 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pendelabhargavasai](https://github.com/pendelabhargavasai)
 
+- 📝 I regularly write articles on [https://www.notion.so/bhargavasaipendela/] (https://www.notion.so/bhargavasaipendela/2781ce49672c491a903c49d3a658f015?v=b5b27286fcba4f4bb607e139a04d2b9c)
+
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
 - 📫 How to reach me **bhargavasaipendela4@gmail.com**
 
-- ⚡ Fun fact **A smile is a curve that sets everything straight**
+- ⚡ Fun fact **A smile is a curve that sets everything straight - D🌻W**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
