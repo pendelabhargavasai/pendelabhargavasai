@@ -69,9 +69,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pendelabhargavasai&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 My GitHub Contributions
-![github contribution grid snake animation](https://raw.githubusercontent.com/pendelabhargavasai/pendelabhargavasai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pendelabhargavasai/pendelabhargavasai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
