@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
-- 📫 How to reach me **bhargavasaipendela4@gmail.com**
+- 📫 How to reach me **pendelabhargavasai@gmail.com**
 
 - ⚡ Fun fact **A smile is a curve that sets everything straight - D🌻W**
 
