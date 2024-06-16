@@ -60,13 +60,21 @@
 <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" height="40" alt="putty logo"  /> </a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="40" height="40" alt="putty logo"  /> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pendelabhargavasai&show_icons=true&locale=en&layout=compact" alt="pendelabhargavasai" /></p>
 
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pendelabhargavasai&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pendelabhargavasai&show_icons=true&locale=en" alt="pendelabhargavasai" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pendelabhargavasai&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pendelabhargavasai&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pendelabhargavasai&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pendelabhargavasai&" alt="pendelabhargavasai" /></p>
+<br/><br/>
+
+<hr/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pendelabhargavasai&limit=5&theme=flat&combine_all_yearly_contributions=true)
