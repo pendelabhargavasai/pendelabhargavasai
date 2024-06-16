@@ -10,6 +10,7 @@
 <h1 align="center">I'm Pendela Bhargava Sai🧔🏻‍♂️</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I study new technologies</h3>
 
+<br/><br/>
 <img align="right" alt="Coding" width="400" src="https://www.emporionsoft.com/assets/images/application-development.gif">
 
 - 🔭 I’m currently working on **Flask application with K8**
