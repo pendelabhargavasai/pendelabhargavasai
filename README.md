@@ -10,7 +10,7 @@
 <h1 align="center">I'm Pendela Bhargava Sai🧔🏻‍♂️</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I study new technologies</h3>
 
-<img align="right" alt="Coding" width="500" src="https://private-user-images.githubusercontent.com/105593686/339971317-9378f537-a7eb-4696-aaed-aee640756ff6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1MjI1MzYsIm5iZiI6MTcxODUyMjIzNiwicGF0aCI6Ii8xMDU1OTM2ODYvMzM5OTcxMzE3LTkzNzhmNTM3LWE3ZWItNDY5Ni1hYWVkLWFlZTY0MDc1NmZmNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxNlQwNzE3MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MmFkMTFhYjI2YzEyM2FlNjY0NGQzMzI2Njg5MDgwNTllOWRmOWI5NDA5MDdjMmNmZjM3ZDNjOGM4YjhmYmY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qEw9EzwwtzoB9dNwxpac4LFpX1wdbPGU2OEcQqIL7Zc">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/105593686/339971317-9378f537-a7eb-4696-aaed-aee640756ff6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1MjI1MzYsIm5iZiI6MTcxODUyMjIzNiwicGF0aCI6Ii8xMDU1OTM2ODYvMzM5OTcxMzE3LTkzNzhmNTM3LWE3ZWItNDY5Ni1hYWVkLWFlZTY0MDc1NmZmNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxNlQwNzE3MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MmFkMTFhYjI2YzEyM2FlNjY0NGQzMzI2Njg5MDgwNTllOWRmOWI5NDA5MDdjMmNmZjM3ZDNjOGM4YjhmYmY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qEw9EzwwtzoB9dNwxpac4LFpX1wdbPGU2OEcQqIL7Zc">
 
 - 🔭 I’m currently working on **Flask application with K8**
 
@@ -61,6 +61,8 @@
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="40" height="40" alt="putty logo"  /> </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pendelabhargavasai&show_icons=true&locale=en&layout=compact" alt="pendelabhargavasai" /></p>
+
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pendelabhargavasai&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pendelabhargavasai&show_icons=true&locale=en" alt="pendelabhargavasai" /></p>
 
