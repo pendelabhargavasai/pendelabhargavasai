@@ -59,6 +59,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo"  /> </a> 
 <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" height="40" alt="putty logo"  /> </a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="40" height="40" alt="putty logo"  /> </a>
+<a href="https://mobaxterm.mobatek.net/" target="_blank" rel="noreferrer"> <img src="<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="40" height="40" alt="putty logo"  /> </a>
 </p>
 
 <hr/>
@@ -79,7 +80,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/pendelabhargavasai/pendelabhargavasai/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/pendelabhargavasai/pendelabhargavasai/blob/output/github-contribution-grid-snake.gif" />
   
   <br/>
 </div>
