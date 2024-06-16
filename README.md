@@ -81,7 +81,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://github.com/pendelabhargavasai/pendelabhargavasai/blob/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <p align="center">
