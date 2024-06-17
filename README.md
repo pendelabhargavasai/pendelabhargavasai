@@ -76,14 +76,6 @@
 
 <hr/>
 
-<div align="center">
-  <h2> My Contributions 👨🏻‍💻</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/pendelabhargavasai/pendelabhargavasai/blob/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
