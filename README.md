@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on **Flask application with K8s**
 
-- 🌱 I’m currently learning **<img align="center" alt="Coding" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">lang, DevSecOps <img align="center" alt="Coding" width="60" src="https://cdn.prod.website-files.com/6030224cd6bd6661c0d922f1/618970666c14764b8d267c74_DevSecOpsChart2.png">, Networking <img align="center" alt="Coding" width="50" src="https://cdn-icons-png.flaticon.com/512/1554/1554377.png">, GenAI with K8s <img align="center" alt="Coding" width="45" src="https://k8sgpt.ai/images/logo-black.png">**
+- 🌱 I’m currently learning **<img align="center" alt="Coding" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">lang, DevSecOps <img align="center" alt="Coding" width="60" src="https://cdn.prod.website-files.com/6030224cd6bd6661c0d922f1/618970666c14764b8d267c74_DevSecOpsChart2.png"> Networking <img align="center" alt="Coding" width="50" src="https://cdn-icons-png.flaticon.com/512/1554/1554377.png"> GenAI with K8s <img align="center" alt="Coding" width="45" src="https://k8sgpt.ai/images/logo-black.png">**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pendelabhargavasai](https://github.com/pendelabhargavasai)
 
-- 📝 I regularly write articles on [https://www.notion.so/bhargavasaipendela](https://bhargavasaipendela.notion.site/2781ce49672c491a903c49d3a658f015?v=b5b27286fcba4f4bb607e139a04d2b9c&pvs=4))
+- 📝 I regularly write articles on [https://www.notion.so/bhargavasaipendela](https://bhargavasaipendela.notion.site/2781ce49672c491a903c49d3a658f015?v=b5b27286fcba4f4bb607e139a04d2b9c&pvs=4)
 
 - 💬 Let's discuss about **DevSecOps**
 
