@@ -13,15 +13,15 @@
 <br/><br/>
 <img align="right" alt="Coding" width="400" src="https://www.emporionsoft.com/assets/images/application-development.gif">
 
-- 🔭 I’m currently working on **Flask application with K8**
+- 🔭 I’m currently working on **Flask application with K8s**
 
-- 🌱 I’m currently learning **Cloud DevSecOps & Networking**
+- 🌱 I’m currently learning **Go<img align="right" alt="Coding" width="400" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">, Cloud DevSecOps<img align="right" alt="Coding" width="400" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/2021_DevSecOps.png?itok=bZJ2S_p3">, Networking<img align="right" alt="Coding" width="400" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/computer-network-2934699-2460933.png">, GenAI <img align="right" alt="Coding" width="400" src="https://cdn-icons-png.freepik.com/512/4818/4818958.png">**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pendelabhargavasai](https://github.com/pendelabhargavasai)
 
 - 📝 I regularly write articles on [https://www.notion.so/bhargavasaipendela](https://bhargavasaipendela.notion.site/2781ce49672c491a903c49d3a658f015?v=b5b27286fcba4f4bb607e139a04d2b9c&pvs=4))
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Let's discuss about **DevSecOps**
 
 - 📫 How to reach me **pendelabhargavasai@gmail.com**
 
