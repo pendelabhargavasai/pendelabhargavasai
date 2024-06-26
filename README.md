@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Flask application with K8s**
 
-- 🌱 I’m currently learning **Go<img align="center" alt="Coding" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">, Cloud DevSecOps<img align="right" alt="Coding" width="60" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/2021_DevSecOps.png?itok=bZJ2S_p3">, Networking<img align="right" alt="Coding" width="70" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/computer-network-2934699-2460933.png">, GenAI <img align="right" alt="Coding" width="80" src="https://cdn-icons-png.freepik.com/512/4818/4818958.png">**
+- 🌱 I’m currently learning **<img align="center" alt="Coding" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">, Cloud DevSecOps<img align="center" alt="Coding" width="60" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/2021_DevSecOps.png?itok=bZJ2S_p3">, Networking<img align="center" alt="Coding" width="50" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/computer-network-2934699-2460933.png">, GenAI <img align="center" alt="Coding" width="50" src="https://cdn-icons-png.freepik.com/512/4818/4818958.png">**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pendelabhargavasai](https://github.com/pendelabhargavasai)
 
