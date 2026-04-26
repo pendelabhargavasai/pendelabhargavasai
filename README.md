@@ -1,25 +1,14 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=100&color=FFCF19&width=435&center=true&lines=ℕ𝕒𝕞𝕒𝕤𝕥𝕙𝕖+🙏🏻;+𝕎𝕖𝕝𝕔𝕠𝕞𝕖+𝕥𝕠+𝕞𝕪+𝔾𝕀𝕋ℍ𝕌𝔹"alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=100&color=FFCF19&width=435&center=true&lines=ℕ𝕒𝕞𝕒𝕤𝕥𝕙𝕖+🙏🏻;+𝕎𝕖𝕝𝕔𝕠𝕞𝕖+𝕥𝕠+𝕞𝕪+𝔾𝕀𝕋"alt="Typing SVG" />
   </a>
 </h1>
-
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">I'm Pendela Bhargava Sai🧔🏻‍♂️</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I study new technologies</h3>
 
 <br/><br/>
-<img align="right" alt="Coding" width="400" src="https://www.emporionsoft.com/assets/images/application-development.gif">
-
-- 🔭 I’m currently working on **Flask application with K8s**
-
-- 🌱 I’m currently learning **<img align="center" alt="Coding" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">lang, DevSecOps <img align="center" alt="Coding" width="60" src="https://cdn.prod.website-files.com/6030224cd6bd6661c0d922f1/618970666c14764b8d267c74_DevSecOpsChart2.png"> Networking <img align="center" alt="Coding" width="50" src="https://cdn-icons-png.flaticon.com/512/1554/1554377.png"> GenAI with K8s**
-
-- 👨‍💻 All of my projects are available at [https://github.com/pendelabhargavasai](https://github.com/pendelabhargavasai)
-
-- 📝 I regularly write articles on [https://www.notion.so/bhargavasaipendela](https://bhargavasaipendela.notion.site/2781ce49672c491a903c49d3a658f015?v=b5b27286fcba4f4bb607e139a04d2b9c&pvs=4)
 
 - 💬 Let's discuss about **DevSecOps**
 
@@ -61,22 +50,6 @@
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="40" height="40" alt="putty logo"  /> </a>
 </p>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pendelabhargavasai&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pendelabhargavasai&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pendelabhargavasai&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
